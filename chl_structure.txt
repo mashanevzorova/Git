@@ -1,0 +1,8 @@
+section being checked[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[S[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+name of the test[D[D[D[D[D[D[D[D[D[D[D[D[D[D[N[C[C[C[C[C[C[C[C[C[C[C[C[C[check
+Status:
+- passed
+- failed
+- blocked
+- skipped
+- not run
