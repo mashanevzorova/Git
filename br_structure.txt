@@ -1,0 +1,12 @@
+ID
+Title/Summary
+Preconditions
+Steps_to_reproduce
+Expected_result
+Actual_result
+Attachments
+Environment
+Severity
+Priority
+Author
+Date
